@@ -209,6 +209,7 @@ h2 {
   height: 500px;
   justify-content: center;
   align-items: center;
+  background-color: black;
   background-image: url("QuestionBoxBackground.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
